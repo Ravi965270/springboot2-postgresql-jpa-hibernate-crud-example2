@@ -53,7 +53,7 @@ public class EmployeeController {
         response.put("deleted", Boolean.TRUE);
         return response;
     }
-    public String m1(){
+    public String m11(){
         return "kjx";
     }
 }
